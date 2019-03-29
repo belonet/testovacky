@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/belonet/testovacky/precache-manifest.91ea6a05c04e4b4c84ca7f85fd159a2e.js"
+  "/belonet/testovacky/precache-manifest.b5fda1a19d09621bca88882157f0c5dc.js"
 );
 
 workbox.clientsClaim();
