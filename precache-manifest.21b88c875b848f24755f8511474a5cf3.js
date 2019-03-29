@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9346476d0176873d6622",
+    "revision": "17a7a1a01f641f2040b6",
     "url": "/testovacky/static/css/main.7539f0c0.chunk.css"
   },
   {
-    "revision": "9346476d0176873d6622",
-    "url": "/testovacky/static/js/main.787e1606.chunk.js"
+    "revision": "17a7a1a01f641f2040b6",
+    "url": "/testovacky/static/js/main.5bed95ff.chunk.js"
   },
   {
     "revision": "d5bbcc8da8169b7dd01d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/testovacky/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "ae379b1103999f2190ea4b17d635c64b",
+    "revision": "fd85418e10e3ada53869b60c4d9e5508",
     "url": "/testovacky/index.html"
   }
 ];
