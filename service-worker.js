@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/belonet/testovacky/precache-manifest.ea413d10ff073d1062c0ce96298ed11c.js"
+  "/testovacky/precache-manifest.4228d1c6692789f78c7bafdf28472a80.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/belonet/testovacky/index.html", {
+workbox.routing.registerNavigationRoute("/testovacky/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
